@@ -2,7 +2,8 @@
 /delab-venv/
 /images/hadoopspark/softwares/
 /cluster_util_db_volume/
-.ipynb_checkpoints
+.ipynb_checkpoints/
 .DS_Store
 postgres/
 .vscode/
+.ssh/
